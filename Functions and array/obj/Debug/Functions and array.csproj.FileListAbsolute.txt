@@ -1,0 +1,7 @@
+C:\Users\אליאל\Desktop\Programs\Computer Methodology Using C# - IntPrCs2\Functions and array\Functions and array\bin\Debug\Functions and array.exe.config
+C:\Users\אליאל\Desktop\Programs\Computer Methodology Using C# - IntPrCs2\Functions and array\Functions and array\bin\Debug\Functions and array.exe
+C:\Users\אליאל\Desktop\Programs\Computer Methodology Using C# - IntPrCs2\Functions and array\Functions and array\bin\Debug\Functions and array.pdb
+C:\Users\אליאל\Desktop\Programs\Computer Methodology Using C# - IntPrCs2\Functions and array\Functions and array\obj\Debug\Functions and array.csprojResolveAssemblyReference.cache
+C:\Users\אליאל\Desktop\Programs\Computer Methodology Using C# - IntPrCs2\Functions and array\Functions and array\obj\Debug\Functions and array.exe
+C:\Users\אליאל\Desktop\Programs\Computer Methodology Using C# - IntPrCs2\Functions and array\Functions and array\obj\Debug\Functions and array.pdb
+C:\Users\אליאל\Desktop\Programs\Computer Methodology Using C# - IntPrCs2\Functions and array\Functions and array\obj\Debug\Functions and array.csproj.CoreCompileInputs.cache
